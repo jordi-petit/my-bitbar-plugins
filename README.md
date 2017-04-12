@@ -1,2 +1,2 @@
-# my-bitbat-plugins
+# my-bitbar-plugins
 My bitbar plugins
